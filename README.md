@@ -14,3 +14,6 @@ This repository consists of three main folders:
 ---
 
 ## Demo Video
+
+[Watch the Demo](https://drive.google.com/file/d/18w5M-TmnL6p-woKXwr7SOgqH8d7bmmah/view?usp=drivesdk)
+
