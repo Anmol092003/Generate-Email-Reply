@@ -17,3 +17,5 @@ This repository consists of three main folders:
 
 [Watch the Demo](https://drive.google.com/file/d/18w5M-TmnL6p-woKXwr7SOgqH8d7bmmah/view?usp=drivesdk)
 
+In the above video, after **20 seconds**, you will see an **AI Reply** button beside **Send**. When you click on **Reply** you will be getting AI generated message which you can edit According to you and can reply on on you mails and i you want to compose any main you and also do the same, this is the extension I worked on.
+
